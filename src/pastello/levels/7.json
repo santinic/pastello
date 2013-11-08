@@ -1,0 +1,1 @@
+[{"w":507,"isStatic":true,"name":"Box","h":47,"y":518.5,"x":280.5},{"isStatic":true,"vertices":[{"y":191,"x":34},{"y":66,"x":34},{"y":191,"x":552}],"name":"Polygon","y":128.5,"x":293},{"isStatic":false,"name":"Ball","radius":20,"isRedBall":true,"y":53,"x":79},{"name":"Flag","y":448,"x":70}]

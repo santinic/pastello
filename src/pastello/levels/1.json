@@ -1,0 +1,4 @@
+[
+{"name":"Text","x":220,"y":120,"content":"Let the red ball catch the stars\n  to restart press SPACE"},
+{"x":120,"y":130,"name":"Ball", "isFake":true, "radius":40},
+{"w":588,"isStatic":true,"name":"Box","h":67,"y":373.5,"x":392},{"isStatic":false,"name":"Ball","radius":20,"isRedBall":true,"y":320.010009765625,"x":158},{"name":"Flag","y":304,"x":621}]

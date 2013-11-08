@@ -1,0 +1,1 @@
+[{"w":353,"isStatic":true,"name":"Box","h":29,"y":207.5,"x":194.5},{"w":266,"isStatic":true,"name":"Box","h":32,"y":204,"x":708},{"w":766,"isStatic":true,"name":"Box","h":26,"y":549,"x":401},{"name":"Flag","y":147,"x":645},{"name":"Flag","y":496,"x":728},{"name":"Flag","y":498,"x":137},{"isStatic":false,"name":"Ball","radius":20,"isRedBall":true,"y":173.00999450683594,"x":96}]
